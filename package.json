@@ -1,0 +1,15 @@
+{
+  "name": "learn-lunr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rahman Fadhil <rhmnfadhil@gmail.com> (https://rahmanfadhil.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "lunr": "^2.3.8"
+  }
+}
